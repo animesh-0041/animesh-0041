@@ -1,3 +1,4 @@
+![logo](https://github.com/animesh-0041/animesh-0041/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Animesh Ghoroi</h1>
 <h3 align="center">An enthusiastic & dedicated full stack web developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" width="50%"   align="center" />
