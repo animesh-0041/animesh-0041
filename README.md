@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Animesh Ghoroi</h1>
 <h3 align="center">An enthusiastic & dedicated full stack web developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" width="300px" align="right"/>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" width="250px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh-0041&label=Profile%20views&color=0e75b6&style=flat" alt="animesh-0041" /> </p>
 
